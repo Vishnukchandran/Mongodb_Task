@@ -28,7 +28,7 @@ This repository has a few questions and queries for the mongodb database saved i
 
 ## 2.Technologies Used:
 
--MongoDB
+- MongoDB
 
 ## 3.Credits
 
